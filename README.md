@@ -1,6 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Bug Bounty Hunting
-
+<h1 align="center">I'm Aditya Patil</h1>
+🌱 I’m currently learning Bug Bounty Hunting
+  
 <!--
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
