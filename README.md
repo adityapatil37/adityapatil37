@@ -1,7 +1,11 @@
 ![logo](https://media.licdn.com/dms/image/C5616AQG7994mKZxUFQ/profile-displaybackgroundimage-shrink_350_1400/0/1622613316696?e=1681948800&v=beta&t=04xM2MsVZu2eVJOHI3xSS8oVjvWiP8M_ERvmWnuqDPI)
 ### Hi there 👋
 <h1 align="center">I'm Aditya Patil</h1>
-🌱 I’m currently learning Bug Bounty Hunting
+<h3>🌱 I’m currently learning Web analysis</h3>
+<h3>📫 How to reach me: </h3>
+  <p>Email-Id: <a href="mailto:adityapa37@gmail.com">adityapa37@gmail.com</a></p>
+  <p>Instagram: https://instagram.com/im_aditya_patil</p>
+  <p>LinkedIn: https://www.linkedin.com/in/adityapatil37/</p>
   
 <!--
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
