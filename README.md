@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/C5616AQG7994mKZxUFQ/profile-displaybackgroundimage-shrink_350_1400/0/1622613316696?e=1681948800&v=beta&t=04xM2MsVZu2eVJOHI3xSS8oVjvWiP8M_ERvmWnuqDPI)
+![logo](https://avatars.githubusercontent.com/u/59890155?v=4)
 ### Hi there 👋
 <h1 align="center">I'm Aditya Patil</h1>
 <h3>🌱 I’m currently learning Web Hacking</h3>
