@@ -6,7 +6,7 @@
   <p>Email-Id: <a href="mailto:adityapa37@gmail.com">adityapa37@gmail.com</a></p>
   <p>Instagram: https://instagram.com/im_aditya_patil</p>
   <p>LinkedIn: https://www.linkedin.com/in/adityapatil37/</p>
-[![An image of @adityapatil37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityapatil37)](https://holopin.io/@adityapatil37)
+(https://holopin.me/adityapatil37)](https://holopin.io/@adityapatil37)
   
 <!--
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
