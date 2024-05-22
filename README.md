@@ -1,7 +1,6 @@
 ![logo](https://avatars.githubusercontent.com/u/59890155?v=4)
 ### Hi there 👋
 <h1 align="center">I'm Aditya Patil</h1>
-<h3>🌱 I’m currently learning Web Hacking</h3>
 <h3>📫 How to reach me: </h3>
   <p>Email-Id: <a href="mailto:adityapa37@gmail.com">adityapa37@gmail.com</a></p>
   <p>Instagram: https://instagram.com/im_aditya_patil</p>
@@ -15,6 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+<h3>🌱 I’m currently learning Web Hacking</h3>
 - 🌱 I’m currently learning Bug Bounty Hunting
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
