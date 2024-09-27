@@ -6,7 +6,7 @@
   <p>Instagram: https://instagram.com/im_aditya_patil</p>
   <p>LinkedIn: https://www.linkedin.com/in/adityapatil37/</p>
 
-[img](https://holopin.me/adityapatil37)
+![img](https://holopin.me/adityapatil37)
   
 <!--
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
