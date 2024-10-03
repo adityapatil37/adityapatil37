@@ -6,6 +6,14 @@
   <p>Instagram: https://instagram.com/im_aditya_patil</p>
   <p>LinkedIn: https://www.linkedin.com/in/adityapatil37/</p>
 
+<h2 align="left"> Stats:</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh0011&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=adarsh0011&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh0011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 ![img](https://holopin.me/adityapatil37)
   
 <!--
