@@ -16,6 +16,11 @@
 
 ![img](https://holopin.me/adityapatil37)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+## 🎓 Certifications
+- **Certified Ethical Hacker (CEHv12)** - EC-Council
+- **Cyber Security Analyst** - IBM
+- **Bits and Bytes of Networking** - Google (Coursera)
   
 <!--
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
