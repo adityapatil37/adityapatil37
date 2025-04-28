@@ -14,13 +14,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapatil37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-![img](https://holopin.me/adityapatil37)
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 ## 🎓 Certifications
 - **Certified Ethical Hacker (CEHv12)** - EC-Council
 - **Cyber Security Analyst** - IBM
 - **Bits and Bytes of Networking** - Google (Coursera)
+
+![img](https://holopin.me/adityapatil37)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
   
 <!--
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
