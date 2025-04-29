@@ -19,11 +19,15 @@
 - **Cyber Security Analyst** - IBM
 - **Bits and Bytes of Networking** - Google (Coursera)
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapatil37&show_icons=true&hide_title=true)
+
+<!--
 ![img](https://holopin.me/adityapatil37)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
   
-<!--
+
 **adityapatil37/adityapatil37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
