@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapatil37&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/adityapatil.png" alt="Your Image Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1852730" style='border:none;'></iframe>
   <img src="https://streak-stats.demolab.com?user=adityapatil37&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapatil37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
